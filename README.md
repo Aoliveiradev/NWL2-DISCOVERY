@@ -106,32 +106,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[SQLite](https://www.sqlite.org/index.html)**
 - **[Sqlite-async](https://www.npmjs.com/package/sqlite-async)**
 
-> Veja o arquivo  [package.json](https://github.com/grioos/proffy-discovery/blob/master/package.json)
-
----
-## 💪 Como contribuir para o projeto
-
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-
----
-
-## 🦸 Autor
-
- <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/60109015?s=460&u=941726645c23518f8cbcb9fca84ea7becc0508c5&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Gabriel Rios</b></sub> 🚀
- <br />
-
-[![Linkedin Badge](https://img.shields.io/badge/-grioos-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grioos/)](https://www.linkedin.com/in/grioos/) 
-[![Gmail Badge](https://img.shields.io/badge/-gabriel.al.rio@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.al.rio@gmail.com)](mailto:gabriel.al.rio@gmail.com)
-
----
 
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE.md).
 
-Feito por Gabriel Rios 👋🏻 [Entre em contato!](https://www.linkedin.com/in/grioos/)
