@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-    <img alt="Logo Proffy" src="/.github/screenshots/logo.png" />
+    <img alt="Logo Proffy" src="/github/screenshots/logo.png" />
 </h1>
 
 <h3 align="center">
@@ -24,7 +24,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/.github/screenshots/banner.png" />
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/github/screenshots/banner.png" />
 </h1>
 
 <h4 align="center"> 
