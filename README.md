@@ -54,13 +54,13 @@ Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rock
 ###  Página de listagem dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/study.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/github/screenshots/study.png" width="100%">
 </p>
 
 ###  Página de cadastro dos professores
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="/.github/screenshots/give-classes.png" width="100%">
+  	<img alt="Página de cadastro de vídeo" src="/github/screenshots/give-classes.png" width="100%">
 </p>
 
 ---
@@ -76,7 +76,7 @@ Além disto ter um editor para trabalhar com o código como [VSCode](https://cod
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/grioos/proffy-discovery
+$ git clone https://github.com/Aoliveiradev/NWL2-DISCOVERY
 
 # Acesse a pasta do projeto no seu vscode
 $ cd proffy-discovery
